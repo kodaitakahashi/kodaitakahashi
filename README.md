@@ -35,7 +35,7 @@
   <strong>Backend:</strong><br>
     <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,js,nodejs,ts,php,ruby,spring,rails,laravel,python&perline=5" />
+            <img src="https://skillicons.dev/icons?i=java,js,nodejs,ts,php,ruby,spring,rails,laravel,python,electron&perline=5" />
         </a>
     </p>
 </p>
@@ -44,7 +44,16 @@
   <strong>Frontend:</strong><br>
       <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=vue,nuxt,vite&perline=5" />
+            <img src="https://skillicons.dev/icons?i=vue,nuxt,vite,cypress,selenium,electron&perline=5" />
+        </a>
+    </p>
+</p>
+
+<p align="left">
+  <strong>Mobile:</strong><br>
+      <p align="center">
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=flutter&perline=5" />
         </a>
     </p>
 </p>
@@ -71,7 +80,7 @@
   <strong>etc:</strong><br>
       <p align="center">
         <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=bash,github,git,gitlab,discord,eclipse,electron,figma,flutter,postman,vscode&perline=5" />
+            <img src="https://skillicons.dev/icons?i=bash,github,git,gitlab,discord,eclipse,figma,postman,vscode,obsidian&perline=5" />
         </a>
     </p>
 </p>
@@ -87,5 +96,5 @@
 </p>
 
 <p align="right">
-Last Updated on 2025-07-21 22:48:00
+Last Updated on 2025-07-21 23:58:00
 </p>
