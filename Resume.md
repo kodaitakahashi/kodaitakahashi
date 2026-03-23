@@ -192,16 +192,16 @@
 
 ## 登壇
 
-### Developers Boost KANSAI
-
-チームに加入して間もない立場から、主体的にチームを改善するために実践したことについて発表しました。
-
-https://event.shoeisha.jp/devboost/20190615
-
-### CodeZine Night (2023.6.21)
+### 若手エンジニアが語る技術への挑戦とキャリア戦略 CodeZine Night #2 (2023 年 6月)
 
 開発チームのパフォーマンスを向上させるため、アセスメント（評価）を通じてチーム内に共通認識を形成し、プロダクト開発を進めるチーム作りについて発表しました。
 
-https://codezine.connpass.com/event/285100/
+[リンク](https://codezine.connpass.com/event/285100/)
 
-Last Updated 2025-07-21 23:51:00
+### Developers Boost KANSAI 関西U30エンジニアの登竜門(2019 年 6月)
+
+チームに加入して間もない立場から、主体的にチームを改善するために実践したことについて発表しました。
+
+[リンク](https://event.shoeisha.jp/devboost/20190615/timetable#tt1835:~:text=%E2%96%A0%E7%99%BA%E8%A8%80%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%81%8C%E6%80%96%E3%81%84%E3%83%9C%E3%82%AF%E3%81%8C%E3%83%81%E3%83%BC%E3%83%A0%E3%82%92%E8%89%AF%E3%81%8F%E3%81%97%E3%82%88%E3%81%86%E3%81%A8%E5%A7%8B%E3%82%81%E3%81%9F%E8%87%AA%E5%88%86%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B9)
+
+Last Updated 2026-03-23
